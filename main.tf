@@ -7,5 +7,5 @@ resource "random_integer" "number" {
 
 import {
   to = random_id.boop
-  id = "beep-blorp-blargh"
+  id = "p-9hUg"
 }
