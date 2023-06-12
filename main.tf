@@ -6,6 +6,6 @@ resource "random_integer" "number" {
 }
 
 import {
-  to = random_id.boop
+  to = random_id.beep
   id = "p-9hUg"
 }
